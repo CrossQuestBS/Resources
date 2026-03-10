@@ -1,0 +1,15 @@
+[
+  {
+    "Id": "BeatSaber",
+    "ModdableVersionList": [
+      {
+        "Version": "1.42.2",
+        "UnityVersion": {
+          "Version": "6000.0.40f1",
+          "ReleaseTag": "6000.0.40f1-1.1"
+        },
+        "ReleaseTag": "1.42.2-1.0"
+      }
+    ]
+  }
+]
