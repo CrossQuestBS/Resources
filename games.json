@@ -97,7 +97,8 @@
             "Beat Saber_Data\\Managed\\OculusStudios.GraphQL.ClientInterface.dll",
             "Beat Saber_Data\\Managed\\OculusStudios.HierarchyIcons.dll",
             "Beat Saber_Data\\Managed\\OculusStudios.Platform.Core.dll",
-            "Beat Saber_Data\\Managed\\OculusStudios.Platform.Oculus.dll"
+            "Beat Saber_Data\\Managed\\OculusStudios.Platform.Oculus.dll",
+            "Beat Saber_Data\\Managed\\Unity.Addressables.dll"
           ]
         },
         "questConfig": {
