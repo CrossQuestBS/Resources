@@ -105,6 +105,10 @@
           "appId": "2448060205267927",
           "version": "1.42.2_13885",
           "binaryId": "34001057496208120"
+        },
+        "obbBinary": {
+          "binaryId": "34001049942875542",
+          "fileName": "main.2182.com.beatgames.beatsaber.obb"
         }
       },
       {
@@ -210,6 +214,10 @@
           "appId": "2448060205267927",
           "version": "1.42.3_15380",
           "binaryId": "34641892905457906"
+        },
+        "obbBinary": {
+          "binaryId": "34641886065458590",
+          "fileName": "main.2302.com.beatgames.beatsaber.obb"
         }
       }
     ]
